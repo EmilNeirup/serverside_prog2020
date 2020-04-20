@@ -4,14 +4,14 @@
     "T:\\C#\\H3\\Serverside\\Warranty Manager\\NUnitTestProject\\NUnitTestProject.csproj": {}
   },
   "projects": {
-    "T:\\C#\\H3\\Serverside\\Warranty Manager\\ClassLibrary1\\ClassLibrary.csproj": {
+    "T:\\C#\\H3\\Serverside\\Warranty Manager\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "T:\\C#\\H3\\Serverside\\Warranty Manager\\ClassLibrary1\\ClassLibrary.csproj",
-        "projectName": "ClassLibrary",
-        "projectPath": "T:\\C#\\H3\\Serverside\\Warranty Manager\\ClassLibrary1\\ClassLibrary.csproj",
+        "projectUniqueName": "T:\\C#\\H3\\Serverside\\Warranty Manager\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "T:\\C#\\H3\\Serverside\\Warranty Manager\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Mikkel\\.nuget\\packages\\",
-        "outputPath": "T:\\C#\\H3\\Serverside\\Warranty Manager\\ClassLibrary1\\obj\\",
+        "outputPath": "T:\\C#\\H3\\Serverside\\Warranty Manager\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -95,8 +95,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "T:\\C#\\H3\\Serverside\\Warranty Manager\\ClassLibrary1\\ClassLibrary.csproj": {
-                "projectPath": "T:\\C#\\H3\\Serverside\\Warranty Manager\\ClassLibrary1\\ClassLibrary.csproj"
+              "T:\\C#\\H3\\Serverside\\Warranty Manager\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "T:\\C#\\H3\\Serverside\\Warranty Manager\\DataAccess\\DataAccess.csproj"
               }
             }
           }
