@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Documents\\Repo\\Private\\ServersidePROG_2020\\Warranty Manager\\Warranty Manager\\Warranty Manager.csproj": {}
+    "T:\\C#\\H3\\Serverside\\Warranty Manager\\Warranty Manager\\Warranty Manager.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Documents\\Repo\\Private\\ServersidePROG_2020\\Warranty Manager\\ClassLibrary1\\ClassLibrary1.csproj": {
+    "T:\\C#\\H3\\Serverside\\Warranty Manager\\ClassLibrary1\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Documents\\Repo\\Private\\ServersidePROG_2020\\Warranty Manager\\ClassLibrary1\\ClassLibrary1.csproj",
-        "projectName": "ClassLibrary1",
-        "projectPath": "\\\\Mac\\Home\\Documents\\Repo\\Private\\ServersidePROG_2020\\Warranty Manager\\ClassLibrary1\\ClassLibrary1.csproj",
-        "packagesPath": "C:\\Users\\emilneirupjensen\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Documents\\Repo\\Private\\ServersidePROG_2020\\Warranty Manager\\ClassLibrary1\\obj\\",
+        "projectUniqueName": "T:\\C#\\H3\\Serverside\\Warranty Manager\\ClassLibrary1\\ClassLibrary.csproj",
+        "projectName": "ClassLibrary",
+        "projectPath": "T:\\C#\\H3\\Serverside\\Warranty Manager\\ClassLibrary1\\ClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\Mikkel\\.nuget\\packages\\",
+        "outputPath": "T:\\C#\\H3\\Serverside\\Warranty Manager\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\emilneirupjensen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mikkel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,20 +69,20 @@
         }
       }
     },
-    "\\\\Mac\\Home\\Documents\\Repo\\Private\\ServersidePROG_2020\\Warranty Manager\\Warranty Manager\\Warranty Manager.csproj": {
+    "T:\\C#\\H3\\Serverside\\Warranty Manager\\Warranty Manager\\Warranty Manager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Documents\\Repo\\Private\\ServersidePROG_2020\\Warranty Manager\\Warranty Manager\\Warranty Manager.csproj",
+        "projectUniqueName": "T:\\C#\\H3\\Serverside\\Warranty Manager\\Warranty Manager\\Warranty Manager.csproj",
         "projectName": "Warranty Manager",
-        "projectPath": "\\\\Mac\\Home\\Documents\\Repo\\Private\\ServersidePROG_2020\\Warranty Manager\\Warranty Manager\\Warranty Manager.csproj",
-        "packagesPath": "C:\\Users\\emilneirupjensen\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Documents\\Repo\\Private\\ServersidePROG_2020\\Warranty Manager\\Warranty Manager\\obj\\",
+        "projectPath": "T:\\C#\\H3\\Serverside\\Warranty Manager\\Warranty Manager\\Warranty Manager.csproj",
+        "packagesPath": "C:\\Users\\Mikkel\\.nuget\\packages\\",
+        "outputPath": "T:\\C#\\H3\\Serverside\\Warranty Manager\\Warranty Manager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\emilneirupjensen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mikkel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,8 +95,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "\\\\Mac\\Home\\Documents\\Repo\\Private\\ServersidePROG_2020\\Warranty Manager\\ClassLibrary1\\ClassLibrary1.csproj": {
-                "projectPath": "\\\\Mac\\Home\\Documents\\Repo\\Private\\ServersidePROG_2020\\Warranty Manager\\ClassLibrary1\\ClassLibrary1.csproj"
+              "T:\\C#\\H3\\Serverside\\Warranty Manager\\ClassLibrary1\\ClassLibrary.csproj": {
+                "projectPath": "T:\\C#\\H3\\Serverside\\Warranty Manager\\ClassLibrary1\\ClassLibrary.csproj"
               }
             }
           }

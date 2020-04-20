@@ -67,3 +67,69 @@
 \\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.dll
 \\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.pdb
 \\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.genruntimeconfig.cache
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\appsettings.json
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Warranty Manager.exe
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Warranty Manager.deps.json
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Warranty Manager.runtimeconfig.json
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Warranty Manager.runtimeconfig.dev.json
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Warranty Manager.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Warranty Manager.pdb
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Warranty Manager.Views.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Warranty Manager.Views.pdb
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.csproj.CoreCompileInputs.cache
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.MvcApplicationPartsAssemblyInfo.cache
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.RazorAssemblyInfo.cache
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.RazorAssemblyInfo.cs
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.AssemblyInfoInputs.cache
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.AssemblyInfo.cs
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.TagHelpers.input.cache
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.TagHelpers.output.cache
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.RazorCoreGenerate.cache
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.RazorTargetAssemblyInfo.cache
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.RazorTargetAssemblyInfo.cs
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.Views.pdb
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.csproj.CopyComplete
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\staticwebassets\Warranty Manager.StaticWebAssets.Manifest.cache
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\staticwebassets\Warranty Manager.StaticWebAssets.xml
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.dll
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.pdb
+T:\C#\H3\Serverside\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.genruntimeconfig.cache
