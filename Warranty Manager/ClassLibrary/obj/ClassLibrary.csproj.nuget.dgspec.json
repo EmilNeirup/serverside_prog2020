@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "L:\\ServerSideH3\\SelvstændigtProjekt\\serverside_prog2020\\Warranty Manager\\NUnitTestProject\\NUnitTestProject.csproj": {}
+    "L:\\ServerSideH3\\SelvstændigtProjekt\\serverside_prog2020\\Warranty Manager\\ClassLibrary\\ClassLibrary.csproj": {}
   },
   "projects": {
-    "L:\\ServerSideH3\\SelvstændigtProjekt\\serverside_prog2020\\Warranty Manager\\NUnitTestProject\\NUnitTestProject.csproj": {
+    "L:\\ServerSideH3\\SelvstændigtProjekt\\serverside_prog2020\\Warranty Manager\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\ServerSideH3\\SelvstændigtProjekt\\serverside_prog2020\\Warranty Manager\\NUnitTestProject\\NUnitTestProject.csproj",
-        "projectName": "NUnitTestProject",
-        "projectPath": "L:\\ServerSideH3\\SelvstændigtProjekt\\serverside_prog2020\\Warranty Manager\\NUnitTestProject\\NUnitTestProject.csproj",
+        "projectUniqueName": "L:\\ServerSideH3\\SelvstændigtProjekt\\serverside_prog2020\\Warranty Manager\\ClassLibrary\\ClassLibrary.csproj",
+        "projectName": "ClassLibrary",
+        "projectPath": "L:\\ServerSideH3\\SelvstændigtProjekt\\serverside_prog2020\\Warranty Manager\\ClassLibrary\\ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\NRTP\\.nuget\\packages\\",
-        "outputPath": "L:\\ServerSideH3\\SelvstændigtProjekt\\serverside_prog2020\\Warranty Manager\\NUnitTestProject\\obj\\",
+        "outputPath": "L:\\ServerSideH3\\SelvstændigtProjekt\\serverside_prog2020\\Warranty Manager\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NRTP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,11 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {
-              "L:\\ServerSideH3\\SelvstændigtProjekt\\serverside_prog2020\\Warranty Manager\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "L:\\ServerSideH3\\SelvstændigtProjekt\\serverside_prog2020\\Warranty Manager\\DataAccess\\DataAccess.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -42,19 +38,13 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[16.5.0, )"
+              "version": "[3.1.3, )"
             },
-            "NUnit3TestAdapter": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.16.1, )"
-            },
-            "nunit": {
-              "target": "Package",
-              "version": "[3.12.0, )"
+              "version": "[3.1.3, )"
             }
           },
           "imports": [
