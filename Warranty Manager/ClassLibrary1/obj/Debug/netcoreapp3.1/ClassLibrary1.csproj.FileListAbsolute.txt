@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.deps.json
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfo.cs
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.pdb

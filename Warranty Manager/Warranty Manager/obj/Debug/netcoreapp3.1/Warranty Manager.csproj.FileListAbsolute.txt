@@ -1,0 +1,69 @@
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\appsettings.json
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Warranty Manager.exe
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Warranty Manager.deps.json
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Warranty Manager.runtimeconfig.json
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Warranty Manager.runtimeconfig.dev.json
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Warranty Manager.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Warranty Manager.pdb
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Warranty Manager.Views.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Warranty Manager.Views.pdb
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.MvcApplicationPartsAssemblyInfo.cache
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.RazorAssemblyInfo.cache
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.RazorAssemblyInfo.cs
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.AssemblyInfo.cs
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.TagHelpers.input.cache
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.TagHelpers.output.cache
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.RazorCoreGenerate.cache
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.RazorTargetAssemblyInfo.cache
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.RazorTargetAssemblyInfo.cs
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.Views.pdb
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.csproj.CopyComplete
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\staticwebassets\Warranty Manager.StaticWebAssets.Manifest.cache
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\staticwebassets\Warranty Manager.StaticWebAssets.xml
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.dll
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.pdb
+\\Mac\Home\Documents\Repo\Private\ServersidePROG_2020\Warranty Manager\Warranty Manager\obj\Debug\netcoreapp3.1\Warranty Manager.genruntimeconfig.cache
