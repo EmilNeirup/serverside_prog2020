@@ -4902,23 +4902,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mikkel\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\NRTP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "T:\\C#\\H3\\Serverside\\Warranty Manager\\ClassLibrary\\ClassLibrary.csproj",
+      "projectUniqueName": "L:\\ServerSideH3\\SelvstændigtProjekt\\serverside_prog2020\\Warranty Manager\\ClassLibrary\\ClassLibrary.csproj",
       "projectName": "ClassLibrary",
-      "projectPath": "T:\\C#\\H3\\Serverside\\Warranty Manager\\ClassLibrary\\ClassLibrary.csproj",
-      "packagesPath": "C:\\Users\\Mikkel\\.nuget\\packages\\",
-      "outputPath": "T:\\C#\\H3\\Serverside\\Warranty Manager\\ClassLibrary\\obj\\",
+      "projectPath": "L:\\ServerSideH3\\SelvstændigtProjekt\\serverside_prog2020\\Warranty Manager\\ClassLibrary\\ClassLibrary.csproj",
+      "packagesPath": "C:\\Users\\NRTP\\.nuget\\packages\\",
+      "outputPath": "L:\\ServerSideH3\\SelvstændigtProjekt\\serverside_prog2020\\Warranty Manager\\ClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Mikkel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\NRTP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
