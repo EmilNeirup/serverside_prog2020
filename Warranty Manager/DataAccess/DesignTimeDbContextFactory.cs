@@ -12,7 +12,7 @@ namespace DataAccess
         public DbContext CreateDbContext(string[] args)
         {
             var builder = new DbContextOptionsBuilder<DbContext>();
-            builder.UseSqlServer(@"Data Source=hosting.nas-tech.dk,1433\SQLEXPRESS;Initial Catalog=DeltagerDatabase;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+            builder.UseSqlServer(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=DeltagerDatabase;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
             return new DbContext(builder.Options);
         }
     }
