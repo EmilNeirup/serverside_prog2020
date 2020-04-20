@@ -4908,11 +4908,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "T:\\C#\\H3\\Serverside\\Warranty Manager\\ClassLibrary\\ClassLibrary.csproj",
-      "projectName": "ClassLibrary",
-      "projectPath": "T:\\C#\\H3\\Serverside\\Warranty Manager\\ClassLibrary\\ClassLibrary.csproj",
+      "projectUniqueName": "T:\\C#\\H3\\Serverside\\Warranty Manager\\DataAccess\\DataAccess.csproj",
+      "projectName": "DataAccess",
+      "projectPath": "T:\\C#\\H3\\Serverside\\Warranty Manager\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Mikkel\\.nuget\\packages\\",
-      "outputPath": "T:\\C#\\H3\\Serverside\\Warranty Manager\\ClassLibrary\\obj\\",
+      "outputPath": "T:\\C#\\H3\\Serverside\\Warranty Manager\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

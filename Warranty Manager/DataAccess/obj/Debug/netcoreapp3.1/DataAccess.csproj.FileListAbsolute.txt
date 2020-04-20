@@ -1,0 +1,8 @@
+T:\C#\H3\Serverside\Warranty Manager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+T:\C#\H3\Serverside\Warranty Manager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+T:\C#\H3\Serverside\Warranty Manager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+T:\C#\H3\Serverside\Warranty Manager\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+T:\C#\H3\Serverside\Warranty Manager\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+T:\C#\H3\Serverside\Warranty Manager\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+T:\C#\H3\Serverside\Warranty Manager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+T:\C#\H3\Serverside\Warranty Manager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

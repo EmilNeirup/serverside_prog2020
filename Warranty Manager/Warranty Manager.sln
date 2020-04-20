@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Warranty Manager", "Warranty Manager\Warranty Manager.csproj", "{ADEA67D4-90BA-48BB-9E49-B1F52E595B21}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{8AA7BAE3-275D-4835-AFCC-DE1C6B06F396}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{8AA7BAE3-275D-4835-AFCC-DE1C6B06F396}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnitTestProject", "NUnitTestProject\NUnitTestProject.csproj", "{3762FD8E-2138-4BB8-A4A0-212DCF554F3B}"
 EndProject
